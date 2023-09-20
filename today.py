@@ -1,14 +1,14 @@
-# trial = 'lets  see  now '
-# new_trial = trial.strip()
-# print(new_trial)
+trial = 'lets  see  now '
+new_trial = trial.strip()
+print(new_trial)
 
-# trial = 'manji is trying something new'
-# new_trial = trial.title()
-# print(new_trial)
+trial = 'manji is trying something new'
+new_trial = trial.title()
+print(new_trial)
 
-# string = ' i could eat bananas all day'
-# new_string = string.partition()
-# print(new_string)
+string = ' i could eat bananas all day'
+new_string = string.partition()
+print(new_string)
 
 methods = ''
 new_methods = methods.isspace()
